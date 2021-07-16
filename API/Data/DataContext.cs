@@ -10,6 +10,6 @@ namespace API.Data
         }
 
         public DbSet<Auth> Users {get; set;}
-         
+         //usertable
     }
 }
